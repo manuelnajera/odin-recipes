@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+    color: black;
+    background-color: rgb(16, 158, 111);
+
+}
+
+ul{
+    text-align: left;
+    text-decoration-line: underline;
+    font-size: 20px;
+}
+
+.esponja{
+    font-size: 10 px;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    
+}
+
+
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
