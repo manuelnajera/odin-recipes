@@ -13,13 +13,19 @@ ul{
 
 .esponja{
     font-size: 10 px;
-    color: aqua;
-    background-color: black;
-    text-align: center;
-    align-content: center;
+    color: rgb(219, 230, 230);
+    background-color: rgb(69, 102, 192);
+    margin: 0 auto;
+    display: table;
+    padding: 5px;
+    margin-top: 400px;
+   border: 2px black double;
     
 }
 
+.esponjosita{
+    
+}
 
 body{
     margin-left: 50px;
